@@ -1,0 +1,27 @@
+{
+  "name": "monodb",
+  "version": "0.0.1",
+  "description": "monogodb",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yevheniimoskalenko/mongodb.git"
+  },
+  "keywords": [
+    "mongodb",
+    "nodejs",
+    "express"
+  ],
+  "author": "yevhenii Moskalenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yevheniimoskalenko/mongodb/issues"
+  },
+  "homepage": "https://github.com/yevheniimoskalenko/mongodb#readme",
+  "dependencies": {
+    "mongoose": "^5.6.10"
+  }
+}
